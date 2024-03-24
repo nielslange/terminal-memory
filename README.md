@@ -1,2 +1,2 @@
-# terminal-memory
+# Memory
 🎲 A terminal-based memory game. 
